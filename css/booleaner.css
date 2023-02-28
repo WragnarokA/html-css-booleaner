@@ -1,0 +1,27 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+
+
+.img{
+    background-color: #0a88f7;
+    background-image: url(../img/pattern.png);
+    background-size:contain;
+    width: 900px;
+    height: 45px;
+    
+}
+
+.logo{
+    width: 80px;
+    margin-top: 20px;
+    margin-left: 40px;
+}
+  
+    
+  
+
+
+
+
